@@ -12,3 +12,4 @@ To complete this project, I'll require the following softwares:
 
 - Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
 - Jupyter Notebook
+- Latex (Writing Report)
