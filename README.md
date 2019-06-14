@@ -8,7 +8,7 @@ Steps will include handling mismatched condition and page assignment, removing d
 
 ## What Software Do I Need?
 
-To complete this project, I'll require the following softwares:
+To complete this project, I will require the following softwares:
 
 - Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
 - Jupyter Notebook
