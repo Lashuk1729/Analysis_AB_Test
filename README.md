@@ -13,3 +13,6 @@ To complete this project, I will require the following softwares:
 - Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
 - Jupyter Notebook
 - Latex (Writing Report)
+
+## Probability based approach:
+- Try to find probability of an individual receiving the new page or an old page and what are the chances of those.
