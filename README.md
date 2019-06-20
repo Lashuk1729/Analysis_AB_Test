@@ -11,7 +11,7 @@ Steps will include handling mismatched condition and page assignment, removing d
 To complete this project, I will require the following softwares:
 
 - Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
-- Jupyter Notebook
+- Jupyter Notebook (for running files)
 - Latex (Writing Report)
 
 ## Probability based approach:
